@@ -40,8 +40,9 @@ header {
 }
 
 header .logo {
-  height: 15vh;
+  height: 30vh;
   box-sizing: content-box;
+  padding-top: 5vh;
 }
 .content {
   text-align: center;
@@ -155,4 +156,8 @@ header .logo {
     #countdown > div > span {
       font-size: 11px;
     }
+}
+
+.content{
+    padding-top: 10vh;
 }
